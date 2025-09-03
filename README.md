@@ -46,5 +46,5 @@ yarn start
 
 Для доступа к системе используйте следующие учетные данные по умолчанию:
 
--   **Username:** `admin`
--   **Password:** `admin`
+-   **Username** 
+-   **Password** 
